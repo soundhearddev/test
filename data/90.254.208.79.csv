@@ -1,0 +1,8 @@
+Tag,Text
+html,401 Unauthorized401 UnauthorizedAuthorization required.micro_httpd
+head,401 Unauthorized
+title,401 Unauthorized
+body,401 UnauthorizedAuthorization required.micro_httpd
+h4,401 Unauthorized
+address,micro_httpd
+a,micro_httpd
